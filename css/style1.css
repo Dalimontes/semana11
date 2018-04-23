@@ -1,0 +1,176 @@
+
+body {
+
+	background:  #26b3ff;
+}
+
+.nav a {
+  color:#fff;
+  display: block;
+  transition: .3s background-color;
+ text-decoration: none;
+}
+
+footer {
+
+		   border:#ffdad5;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+    font-family: montserrat;
+    font-size: 20px;
+    background-color:none;
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 4px #000000;
+    align-items: center;
+
+	
+}
+
+.nav a:hover {
+ color: yellow;
+}
+
+
+.body
+{
+	color: black;
+}
+
+h1 {
+
+	font-family: montserrat;
+	font-size:100px;
+	align-content:center;
+	margin:50px;
+	padding: 50px
+	
+
+
+}
+
+header {
+
+	align-content:center;
+	color: #fff;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+
+.wrapper {
+
+width: 1200px;
+
+
+	}
+
+nav {
+		   border:#ffdad5;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+    font-family: montserrat;
+    font-size: 20px;
+    background-color:none;
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px 4px #000000;
+    align-items: center;
+
+
+}
+
+.nav li {
+    display: inline-block;
+     margin: 10px;
+    text-decoration: none;
+    align-content: center;
+    position: center;
+}
+
+.nav ul {
+  list-style: inline;
+  
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: montserrat;
+  text-decoration: none;
+}
+
+img {
+
+	float:left;
+	margin: 20px;
+}
+
+
+p{
+
+	font-family:montserrat;
+	margin: 20px;
+	padding: 10px;
+	text-align: justify;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+h2{
+
+	font-family: montserrat;
+	margin: 35px;
+	padding: 10px;
+	color: #fff;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.article1
+
+{
+	float: left;
+	margin: 20px;
+}
+
+.image
+
+{
+	float: right;
+	border-radius: 200px;
+	margin: 50px;
+}
+
+.image2
+
+{
+	
+	border-radius: 200px;
+}
+
+
+.article4
+
+{
+
+	margin: 150px
+}
+
+
+.paragraph
+
+{
+	float: left;
+}
+
+.article2
+
+{
+	margin: 150px;
+	flex-wrap: left;
+	
+}
